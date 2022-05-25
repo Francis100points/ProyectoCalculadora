@@ -87,4 +87,8 @@ public class Calculadora {
     public double division() {
         return (this.num1 / this.num2);
     }
+    
+    public double modulo(){
+        return (this.num1 % this.num2);
+    }
 }
